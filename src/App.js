@@ -4,7 +4,7 @@ import Section from "./components/Section";
 
 function App() {
   return (
-    <div className="App bg-slate-100 h-full">
+    <div className="App bg-[#f5f5f5] h-full">
       <NavBar />
       <Section />
     </div>

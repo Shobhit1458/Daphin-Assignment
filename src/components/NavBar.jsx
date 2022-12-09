@@ -3,7 +3,7 @@ import { CgProfile } from "react-icons/cg";
 
 const NavBar = () => {
   return (
-    <nav class="px-2 sm:px-2 py-1 bg-red-900 fixed w-full z-20 top-0 left-0 border-b border-gray-200 dark:border-gray-600">
+    <nav class="px-2 sm:px-2 py-1 bg-[#750b0b] fixed w-full z-20 top-0 left-0 border-b border-gray-200 dark:border-[#750b0b]">
       <div class="container flex flex-wrap items-center justify-between mx-auto">
         <div class="flex items-center">
           <img
@@ -25,7 +25,7 @@ const NavBar = () => {
           <CgProfile size={40} className="text-white" />
         </div>
         <div class="items-center justify-between w-full md:flex md:w-auto ">
-          <ul class="flex flex-col p-4 mt-4 border border-gray-100 rounded-lg bg-gray-50 md:flex-row md:space-x-8 md:mt-0 md:text-lg md:font-medium md:border-0 md:bg-white dark:bg-red-900 md:dark:bg-red-900 dark:border-gray-700 cursor-pointer">
+          <ul class="flex flex-col p-4 mt-4 border border-gray-100 rounded-lg bg-gray-50 md:flex-row md:space-x-8 md:mt-0 md:text-lg md:font-medium md:border-0 md:bg-white dark:bg-[#750b0b] md:dark:bg-[#750b0b] dark:border-[#750b0b] cursor-pointer">
             <li>
               <div class="block py-2 pl-3 pr-4 text-white rounded md:bg-transparent md:p-0 dark:text-white">
                 Home

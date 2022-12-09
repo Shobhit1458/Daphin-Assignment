@@ -34,11 +34,11 @@ const Cards = () => {
             </div>
           </div>
           <hr class="mt-2 mb-3 border-gray-300 h-px" />
-          <div className="bg-black rounded-lg">
+          <div className="bg-[#730a0d] rounded-lg">
             <button className="w-full bg-white mb-4">
               <div className="flex flex-row items-center justify-center mb-2">
                 <GrSend size={30} />
-                <span className="text-xl text-gray-600 font-medium ml-2">
+                <span className="text-xl text-[#3d7b76] font-medium ml-2">
                   Contact Supplier
                 </span>
               </div>
@@ -76,11 +76,11 @@ const Cards = () => {
             </div>
           </div>
           <hr class="mt-2 mb-3 border-gray-300 h-px" />
-          <div className="bg-black rounded-lg">
+          <div className="bg-[#730a0d] rounded-lg">
             <button className="w-full bg-white mb-4">
               <div className="flex flex-row items-center justify-center mb-2">
                 <GrSend size={30} />
-                <span className="text-xl text-gray-600 font-medium ml-2">
+                <span className="text-xl text-[#3d7b76] font-medium ml-2">
                   Contact Supplier
                 </span>
               </div>
@@ -118,11 +118,11 @@ const Cards = () => {
             </div>
           </div>
           <hr class="mt-2 mb-3 border-gray-300 h-px" />
-          <div className="bg-black rounded-lg">
+          <div className="bg-[#730a0d] rounded-lg">
             <button className="w-full bg-white mb-4">
               <div className="flex flex-row items-center justify-center mb-2">
                 <GrSend size={30} />
-                <span className="text-xl text-gray-600 font-medium ml-2">
+                <span className="text-xl text-[#3d7b76] font-medium ml-2">
                   Contact Supplier
                 </span>
               </div>
@@ -160,11 +160,11 @@ const Cards = () => {
             </div>
           </div>
           <hr class="mt-2 mb-3 border-gray-300 h-px" />
-          <div className="bg-black rounded-lg">
+          <div className="bg-[#730a0d] rounded-lg">
             <button className="w-full bg-white mb-4">
               <div className="flex flex-row items-center justify-center mb-2">
                 <GrSend size={30} />
-                <span className="text-xl text-gray-600 font-medium ml-2">
+                <span className="text-xl text-[#3d7b76] font-medium ml-2">
                   Contact Supplier
                 </span>
               </div>
@@ -202,11 +202,11 @@ const Cards = () => {
             </div>
           </div>
           <hr class="mt-2 mb-3 border-gray-300 h-px" />
-          <div className="bg-black rounded-lg">
+          <div className="bg-[#730a0d] rounded-lg">
             <button className="w-full bg-white mb-4">
               <div className="flex flex-row items-center justify-center mb-2">
                 <GrSend size={30} />
-                <span className="text-xl text-gray-600 font-medium ml-2">
+                <span className="text-xl text-[#3d7b76] font-medium ml-2">
                   Contact Supplier
                 </span>
               </div>
@@ -244,11 +244,11 @@ const Cards = () => {
             </div>
           </div>
           <hr class="mt-2 mb-3 border-gray-300 h-px" />
-          <div className="bg-black rounded-lg">
+          <div className="bg-[#730a0d] rounded-lg">
             <button className="w-full bg-white mb-4">
               <div className="flex flex-row items-center justify-center mb-2">
                 <GrSend size={30} />
-                <span className="text-xl text-gray-600 font-medium ml-2">
+                <span className="text-xl text-[#3d7b76] font-medium ml-2">
                   Contact Supplier
                 </span>
               </div>

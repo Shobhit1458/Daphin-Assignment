@@ -4,7 +4,7 @@ const SideBar = () => {
   return (
     <div class="h-full w-1/6 flex flex-col px-3 py-8 space-y-4">
       <div class="bg-white md:block w-30 md:w-60 lg:w-48 transition-transform duration-300 ease-in-out rounded-md">
-        <div className="bg-teal-300 py-2 font-semibold">
+        <div className="bg-[#d9d9d9] py-2 font-semibold">
           <span>Related Category</span>
         </div>
         <div class="flex flex-col">
@@ -17,8 +17,9 @@ const SideBar = () => {
           <div class="text-sm font-medium text-gray-700 py-2 px-2 hover:bg-teal-500 hover:text-white hover:text-base rounded-md transition duration-150 ease-in-out">
             <span class="">Paracetamol Powder</span>
           </div>
-          <div class="text-sm font-medium text-gray-700 py-2 px-2 hover:bg-teal-500 hover:text-white hover:text-base rounded-md transition duration-150 ease-in-out">
+          <div class="flex flex-row justify-between text-sm font-medium text-gray-700 py-2 px-2 bg-[#32b8ad] hover:bg-teal-500 hover:text-white hover:text-base rounded-md transition duration-150 ease-in-out">
             <span class="">Aceclofenac</span>
+            <span>x</span>
           </div>
           <div class="text-sm font-medium text-gray-700 py-2 px-2 hover:bg-teal-500 hover:text-white hover:text-base rounded-md transition duration-150 ease-in-out">
             <span class="">Magaladrate Simethicone Oral Suspension</span>
@@ -29,7 +30,7 @@ const SideBar = () => {
         </div>
       </div>
       <div class="bg-white md:block w-30 md:w-60 lg:w-48 transition-transform duration-300 ease-in-out rounded-md">
-        <div className="bg-teal-300 py-2 font-semibold">
+        <div className="bg-[#d9d9d9] py-2 font-semibold">
           <span>Buisness Type</span>
         </div>
         <div class="flex flex-col">
@@ -48,20 +49,21 @@ const SideBar = () => {
         </div>
       </div>
       <div class="bg-white md:block w-30 md:w-60 lg:w-48 transition-transform duration-300 ease-in-out rounded-md">
-        <div className="bg-teal-300 py-2 font-semibold">
+        <div className="bg-[#d9d9d9] py-2 font-semibold">
           <span>Strength</span>
         </div>
         <div class="flex flex-col">
           <div class="text-sm font-medium text-gray-700 py-2 px-2 hover:bg-teal-500 hover:text-white hover:text-base rounded-md transition duration-150 ease-in-out">
-            <span class="">500 mg</span>
+            <span class="">650 mg</span>
           </div>
-          <div class="text-sm font-medium text-gray-700 py-2 px-2 hover:bg-teal-500 hover:text-white hover:text-base rounded-md transition duration-150 ease-in-out">
-            <span class="">600 mg</span>
+          <div class="flex flex-row justify-between text-sm font-medium text-gray-700 py-2 px-2 bg-[#32b8ad] hover:bg-teal-500 hover:text-white hover:text-base rounded-md transition duration-150 ease-in-out">
+            <span class="">500 mg</span>
+            <span>x</span>
           </div>
         </div>
       </div>
       <div class="bg-white md:block w-30 md:w-60 lg:w-48 transition-transform duration-300 ease-in-out rounded-md">
-        <div className="bg-teal-300 py-2 font-semibold">
+        <div className="bg-[#d9d9d9] py-2 font-semibold">
           <span>Manufacturer</span>
         </div>
         <div class="flex flex-col">
@@ -74,7 +76,7 @@ const SideBar = () => {
         </div>
       </div>
       <div class="bg-white md:block w-30 md:w-60 lg:w-48 transition-transform duration-300 ease-in-out rounded-md">
-        <div className="bg-teal-300 py-2 font-semibold">
+        <div className="bg-[#d9d9d9] py-2 font-semibold">
           <span>Prescription/Non Prescription</span>
         </div>
         <div class="flex flex-col">

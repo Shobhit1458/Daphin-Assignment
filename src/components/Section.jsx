@@ -80,7 +80,7 @@ const Section = () => {
               />
               <button
                 type="submit"
-                class="text-white bg-blue-700 hover:bg-blue-800 focus:ring-4 focus:outline-none focus:ring-blue-300 font-base rounded-r-md text-lg px-6 dark:bg-blue-600 dark:hover:bg-blue-700 dark:focus:ring-blue-800"
+                class="text-white bg-[#00a69c] focus:ring-4 focus:outline-none focus:ring-blue-300 font-base rounded-r-md text-lg px-6 0  dark:focus:ring-blue-800"
               >
                 Search
               </button>
@@ -105,10 +105,10 @@ const Section = () => {
           </li>
           <li aria-current="page">
             <div class="flex items-center">
-              <span class="ml-1 text-sm font-medium text-white px-2 py-1 bg-slate-500 rounded-md">
+              <span class="ml-1 text-sm font-medium text-white px-2 py-1 bg-[#2db6ae] rounded-md">
                 Aceclofenac x
               </span>
-              <span class="ml-1 text-sm font-medium text-white px-2 py-1 bg-slate-500 rounded-md">
+              <span class="ml-1 text-sm font-medium text-white px-2 py-1 bg-[#2db6ae] rounded-md">
                 500 mg x
               </span>
               <span class="ml-4 text-xs font-medium text-black ">
